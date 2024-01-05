@@ -6,3 +6,31 @@
 @import "devlopr";
 
 /* custom css goes below */
+/* @media (min-width: 768px) */
+/* 
+@media screen and (min-width: 768px) { */
+.col-md-6 {
+  -ms-flex: 0 0 100%;
+  flex: 0 0 100%;
+  max-width: 100%;
+}
+
+.col-md-6 {
+  width: 100% !important;
+  flex: 0 0 100% !important;
+  max-width: 100%;
+}
+
+.col-md-4 {
+  -ms-flex: 0 0 100%;
+  flex: 0 0 100%;
+  max-width: 100%;
+}
+
+.mkw-makerwidget__button-iframe,
+.mkw-makerwidget__trigger {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  display: none;
+}
