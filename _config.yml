@@ -26,12 +26,13 @@ urls:
 
 author_logo: profile.png
 author: Ibukun Alesinloye
-author_bio: "I am a Software Engineer with a passion for building products that solve real world problems. I am currently a Software Developer at <a href='https://www.ziikosolutions.com/'>Ziiko Solutions</a> where I build and maintain the digital products. I am also a <a href='https://www.freecodecamp.org/'>freeCodeCamp</a> alumni and a <a href='https://www.udacity.com/'>Udacity</a> Nanodegree graduate. I am passionate about building products that solve real world problems and I am always open to new opportunities. I am also a Sociology graduate. I love to read, write and game. I am also a huge fan of Chelsea Football Club."
+author_bio: Software Developer {BE} {POET} [ PHP | JS | Python | C ] {FrameWorks} [ Laravel | NodeJS | Express ] {CMS} [ WordPress | WooCommerce ] {DB} [ MySQL | MongoDB | Firebase ] {Cloud} [ AWS | Google Cloud | Digital Ocean ] {Tools} [ Git | Docker | Postman | VSCode | Sublime Text | PHPStorm | PyCharm | Android Studio ]
 author_email: "hiibeekayvibe@gmail.com"
 author_location: Abuja, Nigeria
 author_website_url: "https://highb33kay.me"
 author_resume_url: "https://drive.google.com/file/d/1HSRnItYiksiVfvrHWgU3hbOBuWhcip09/view?usp=sharing"
-typewrite-text: I am a Software Engineer with a passion for building products that solve real world problems. I am currently a Software Developer at <a href='https://www.ziikosolutions.com/'>Ziiko Solutions</a> where I build and maintain the digital products. I am also a <a href='https://www.freecodecamp.org/'>freeCodeCamp</a> alumni and a <a href='https://www.udacity.com/'>Udacity</a> Nanodegree graduate. I am passionate about building products that solve real world problems and I am always open to new opportunities. I am also a Sociology graduate. I love to read, write and game. I am also a huge fan of Chelsea Football Club.
+typewrite-text: Software Developer {BE} [ PHP | JS | Python | C ] [ Laravel | NodeJS | Express] [ WordPress ] [ Postgres | MySQL | MongoDB ] 
+typewrite-body: FrameWorks  [ Laravel | NodeJS | Express ] {CMS} [ WordPress | WooCommerce ] {DB} [ MySQL | MongoDB | Firebase ] {Cloud} [ AWS | Google Cloud | Digital Ocean ] {Tools} [ Git | Docker | Postman | VSCode | Sublime Text | PHPStorm | PyCharm | Android Studio ]'
 hero_cover_img: sample_cover.jpg # replace this for changing homepage cover (eg. try cover.jpeg). Image should be in /assets/img
 
 # Experiences
