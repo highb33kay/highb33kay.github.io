@@ -120,8 +120,8 @@ wakatime_username: highb33kay
 # mailchimp_form_url: https://sujaykundu.us10.list-manage.com/subscribe/post?u=50bab1c85eae24ecfb0f68361&amp;id=3a2dd721d0
 
 # contact form - (choose formspress or getform)
-# getform_endpoint: 9a2945f0-bac2-472a-9318-8432e821b6b7
-# formspree_email: hiibeekayvibe@gmail
+getform_endpoint: 9a2945f0-bac2-472a-9318-8432e821b6b7
+formspree_email: hiibeekayvibe@gmail
 
 # releases - widget can be (sidebar, modal or embed)
 olvy_organization: devlopr
