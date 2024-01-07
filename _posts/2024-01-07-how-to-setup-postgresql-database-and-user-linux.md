@@ -55,6 +55,28 @@ GRANT ALL PRIVILEGES ON DATABASE your_db_name TO youruser;
 
 These commands grant all privileges on the database to the user you created. This allows the user to create tables, insert data, and perform other operations.
 
+## Testing the Configuration
+
+To test the configuration, log in to the PostgreSQL shell using the following command:
+
+```bash
+psql -U youruser -d your_db_name
+```
+
+If the configuration is correct, you will be able to log in to the PostgreSQL shell without any errors. You can also check the list of databases using the following command:
+
+```bash
+\l
+```
+
+## Creating a Database URL
+
+To connect to the database from your application, you need to create a database URL. The format of the URL is as follows:
+
+```bash
+postgresql://youruser:yourpassword@localhost:5432/your_db_name
+```
+
 ## Conclusion
 
 In this article, we have walked through the process of creating a PostgreSQL database, configuring user permissions, and granting privileges using PostgreSQL. This will allow you to get started with PostgreSQL quickly and easily.
